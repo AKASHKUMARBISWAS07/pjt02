@@ -1,0 +1,176 @@
+html
+{
+    background-image: url(sc3.png);
+    background-size:cover; 
+    background-repeat: no-repeat;
+
+}
+
+.ant{
+    padding-left: 10px;
+    font-size: 18px;
+}
+.x{
+    padding-left: 200px;
+    font-size:22px;
+    color: rgb(193, 191, 191); 
+}
+.add
+{
+    width: 370px;
+    height: 220px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: rgb(199, 199, 199);
+    background-color: white;
+    position: relative;
+    margin-top: 300px;
+    margin-left: 600px;
+    
+}
+.b1
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.t1
+{
+    margin-top: 40px;
+    font-size: 10px; 
+}
+.vfp{
+    width:350px;
+    height:25px;
+    background-color: rgb(250, 250, 250);
+    border-color:rgb(207, 205, 205);
+    border-top:0;
+    border-left:0;
+    margin-left: 8px;
+}
+.hr
+{
+    color: rgb(207, 205, 205);
+}
+
+.c1
+{
+    background-color: antiquewhite;
+    border-style: solid;
+    border-color: black;
+    padding-left: 260px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-left: 25px;
+}
+.At
+{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 40px;
+    margin-left: 220px;
+    padding-top: 8px;
+    background-color: rgb(3, 175, 227);
+    padding-left: 20px;
+    width: 100px;
+    height: 30px;
+}
+@media (min-width:820px) and (max-width:1180px) {
+    html
+{
+    background-image: url(tab2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.add
+{
+    width: 400px;
+    height: 250px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: rgb(199, 199, 199);
+    background-color: white;
+    position: relative;
+    margin-top: 300px;
+    margin-left: 220px;  
+}
+.x{
+    padding-left: 250px;
+    font-size:22px;
+    color: rgb(193, 191, 191); 
+}
+.vfp{
+    width:380px;
+    height:25px;
+    background-color: rgb(250, 250, 250);
+    border-color:rgb(207, 205, 205);
+    border-top:0;
+    border-left:0;
+    margin-left: 8px;
+}
+.At
+{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 70px;
+    margin-left: 260px;
+    padding-top: 8px;
+    background-color: rgb(3, 175, 227);
+    padding-left: 20px;
+    width: 100px;
+    height: 30px;
+}
+}
+
+@media (min-width:0px) and (max-width:819px) {
+
+    html
+    {
+        background-image: url(smsng2.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .add
+    {
+        width: 340px;
+        height: 250px;
+        border-style: solid;
+        border-radius: 10px;
+        border-width: 2px;
+        border-color: rgb(199, 199, 199);
+        background-color: white;
+        position: relative;
+        margin-top: 300px;
+        margin-left: 0px;  
+    }
+    .x{
+        padding-left: 190px;
+        font-size:22px;
+        color: rgb(193, 191, 191); 
+    }
+    .vfp{
+        width:320px;
+        height:25px;
+        background-color: rgb(250, 250, 250);
+        border-color:rgb(207, 205, 205);
+        border-top:0;
+        border-left:0;
+        margin-left: 8px;
+    }
+    .At
+    {
+        font-size: 18px;
+        font-family: 'Times New Roman', Times, serif;
+        color: white;
+        margin-top: 70px;
+        margin-left: 210px;
+        padding-top: 8px;
+        background-color: rgb(3, 175, 227);
+        padding-left: 20px;
+        width: 100px;
+        height: 30px;
+    }
+
+}
